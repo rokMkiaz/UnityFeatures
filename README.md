@@ -1,4 +1,4 @@
-## Unity의 기능들 정리
+## Unity의 기능 정리
 개요 : TeamRocket에서 피드백한 코드들을 모아둡니다.
 
 ### Component
